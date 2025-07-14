@@ -1,5 +1,3 @@
----
-
 # Laravel Skills Test Submission
 
 ## 📇 Submitted by:
